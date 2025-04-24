@@ -1,2 +1,3 @@
-# .github
-A-Game Empowerment, LLC. GitHub Organization
+# A-Game Empowerment, LLC. 
+
+GitHub Organization
